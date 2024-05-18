@@ -13,5 +13,5 @@ dependencyResolutionManagement {
         maven { url 'https://api.xposed.info' }
     }
 }
-rootProject.name = "Digitales Amt Liberator"
+rootProject.name = "PTGov RootSkip"
 include ':app'
